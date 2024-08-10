@@ -1,0 +1,11 @@
+.button {
+    background-color: var(--main-green);
+    color: var(--main-white);
+    padding: 10px 40px;
+    font-size: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 30px;
+    border: none;
+}
