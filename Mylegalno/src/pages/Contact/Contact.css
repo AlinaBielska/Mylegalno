@@ -1,0 +1,35 @@
+.contact {
+    display: flex;
+}
+.contact_info {
+    width: 50%;
+    padding-inline: 50px;
+}
+.contact_form {
+    width: 50%;
+    padding-inline: 50px;
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.contact_form-label {
+    position: relative;
+}
+.contact_form-input {
+    min-width: 400px;
+    padding: 10px;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+}
+.contact-form_button {
+    margin-top: 120px;
+}
+.contact_info-address > a {
+    color: var(--main-green);
+    font-size: 24px;
+}
+.contact_button {
+   margin-top: 120px; 
+}
